@@ -22,3 +22,10 @@
 - Prompt Engineering
 - Artificial Intelligence
 - Generative AI Tools
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sarthak-SethiNsd&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-SethiNsd&layout=compact&theme=github_dark)
+
