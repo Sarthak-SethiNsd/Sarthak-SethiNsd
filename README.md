@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sarthak Sethi 👋
 
-<!--
-**Sarthak-SethiNsd/Sarthak-SethiNsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Computer Science & Engineering student at IIIT Vadodara (2025–2029)
+- 💻 Interested in Software Development, Artificial Intelligence, and Open Source
+- ☕ Solving Data Structures & Algorithms in Java
+- 🌱 Currently learning Generative AI and Machine Learning
+- 🚀 Building practical software projects and contributing to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages**
+- Java
+- Python
+
+**Core Skills**
+- Data Structures & Algorithms
+- Git & GitHub
+- Prompt Engineering
+- Artificial Intelligence
+- Generative AI Tools
