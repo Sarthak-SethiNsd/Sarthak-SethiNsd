@@ -27,4 +27,4 @@
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Sarthak-SethiNsd&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sarthak-SethiNsd&layout=compact&theme=github_dark)
+
